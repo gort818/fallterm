@@ -5,6 +5,12 @@ A python log creator,viewer, and printer
 A python curses program utilizing  bash scripts to allow users to create logs or data entries using vi,
 to print said data entries, make new directories, etc.
 
+Dependencies:
+
+Python3,Python3 curses, and bash.
+
+So far I have only tested the program with linux, it might work with OSX but I don't have a machine to test with,
+
 Note: 
 This is a work in progress and any refining the code would be greatly appreciated!
 
