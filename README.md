@@ -12,7 +12,7 @@ Python3,Python3 curses, and bash.
 So far I have only tested the program with linux, it might work with OSX but I don't have a machine to test with,
 
 Note: 
-This is a work in progress and any refining the code would be greatly appreciated!
+This is a work in progress and any help in refining the code would be greatly appreciated!
 
 
 Here is a photo of the program using [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
