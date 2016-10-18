@@ -12,7 +12,7 @@ Dependencies:
 
 Python3,Python3 curses, and bash.
 
-So far I have only tested the program with linux, it might work with OSX but I don't have a machine to test with,
+So far I have only tested the program with linux, it might work with OSX but I don't have a machine to test with.
 
 Note: 
 This is a work in progress and any help in refining the code would be greatly appreciated!
