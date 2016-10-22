@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 
 from os import system
-#from curses import wrapper
-#from curses import textpad
 import curses
 import subprocess
 import os
-#import glob
 import getpass
 
 
